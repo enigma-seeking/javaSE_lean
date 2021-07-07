@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodeComments" version="1">
+    <comments>
+      <comment>
+        <place from="996" to="996">
+          <path mode="project">chapter1/src/MethodLearn.java</path>
+        </place>
+        <text />
+        <data>机制：值传递
+    1.形参：方法定义时，声明的小括号内的参数
+    2.实参：方法调用时。对这个进行测试</data>
+      </comment>
+    </comments>
+  </component>
+</project>

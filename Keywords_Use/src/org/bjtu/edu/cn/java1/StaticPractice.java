@@ -6,7 +6,7 @@ package org.bjtu.edu.cn.java1;
  * @create 2021-07-14 7:58 下午
  * @param:
  */
-jhhhhh
+
 public class StaticPractice {
 
 }

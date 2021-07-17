@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="55bd1c51-8043-4431-9141-6860c4075085" name="aliyun" url="http://39.106.102.73">
+        <fileTransfer rootFolder="/home/JavaseLearn" accessType="SFTP" host="39.106.102.73" port="22" sshConfigId="d500d1ac-7f3d-4291-b148-8660dd79ef6f" sshConfig="root@39.106.102.73:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
